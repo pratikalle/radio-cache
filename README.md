@@ -1,2 +1,3 @@
 # radio-cache
-A retro-inspired music streaming platform built with Laravel and React.js for discovering and listening to public domain classic songs.
+RadioCache is a music streaming platform focused on preserving and sharing timeless public domain music. Built with Laravel and React.js.
+
